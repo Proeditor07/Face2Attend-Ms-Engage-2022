@@ -22,7 +22,7 @@ See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
 ## Application Setup Guidelines                                                                                                                                          
                                                                                                                                           
   1. Clone the project -                                                                                                                                        
-  ```https://github.com/geekysumant/edushare-ms-engage-2021.git```
+  ```https://github.com/Proeditor07/Face2Attend-Ms-Engage-2022.git```
                                                                                                                                           
   2. Create the virtual environment - 
  ```py -3 -m venv env```                                                                                                                                            
