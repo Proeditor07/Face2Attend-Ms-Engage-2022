@@ -39,8 +39,8 @@ See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
    
   1. Make sure you have enabled the virtual environment and then type - 
     </br>```python manage.py runserver``` 
-
-   </br>It will create the server and the site will be visible on the port ```http://127.0.0.1:8000/```                                                                                                                                                                                                                                                                               
+    </br>It will create the server and the site will be visible on the port ```http://127.0.0.1:8000/```     
+                                                                                                                                                                                                                                                                             
 ## Errors 🛑
  If you get any error of dependencies like - dlib/numpy/opencv-python error, then you must have to install ```visual studio``` on your machine</br>  
 ![Screenshot (39)](https://user-images.githubusercontent.com/73808096/170742475-4d8a8e5a-6d2b-454f-84d5-a64481b7a9a4.png)
