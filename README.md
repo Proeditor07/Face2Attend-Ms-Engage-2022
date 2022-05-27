@@ -6,7 +6,7 @@
 </p>
 Face-2-Attend is a Attendance recording system that works based on the profile Images of the recorded persons in the database. The face recognition process is live and the profile detail page will change If a new face has detected.
                                                                                                                                           
-See the video demo here - 
+See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
                                                                                                                                           
 ## Tech Stack                                                                                                                                           
 #### Frontend: ```HTML,CSS,JAVASCRIPT```    
