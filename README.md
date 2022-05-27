@@ -68,3 +68,10 @@ Your erros will be resolved ^_^
  
 ![Screenshot (41)](https://user-images.githubusercontent.com/73808096/170749106-cc3fb173-ab80-408f-8f08-57d2df1922e1.png)
                                                                                                                                           
+**Detecting Faces**
+
+![Screenshot (45)](https://user-images.githubusercontent.com/73808096/170749991-a93cd656-6cbf-49f6-94d7-2d4dfd462d85.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/73808096/170750137-09b490df-0c51-49c3-a096-5f247a6e44df.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/73808096/170750217-eb1dd579-9245-4419-abf0-1dbb870eabe7.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/73808096/170750297-c26f5878-38b5-4d4d-b99d-c7bc918f18a6.png)
+                                                                                                                                          
