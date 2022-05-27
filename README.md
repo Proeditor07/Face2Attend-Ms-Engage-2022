@@ -9,18 +9,18 @@ Face-2-Attend is a Attendance recording system that works based on the profile I
 
 </br>**See the video demo here** - https://www.youtube.com/watch?v=jz21Mj4T_m8
                                                                                                                                           
-## Tech Stack                                                                                                                                           
+## Tech Stack 📊                                                                                                                                            
 #### Frontend: ```HTML,CSS,JAVASCRIPT```    
 #### Backend:
 * Language: ```Python```
 * Framework: ```Django```                                                                                                                                         
 * Database: ```SQLite```
 * Libraries: ```face-recognition,face-recognition-models,numpy,opencv-python```                                                                                                                                         
-## Features
+## Features 📋
 * It can detect multiple faces at same time.
 * It can detect faces in low light.
 * It gives a Beep-Sound to ensure the attendance has been taken.                                                                                                                                          
-## Application Setup Guidelines                                                                                                                                          
+## Application Setup Guidelines 🧾                                                                                                                                         
                                                                                                                                           
   1. Clone the project -                                                                                                                                        
   ```https://github.com/Proeditor07/Face2Attend-Ms-Engage-2022.git```
@@ -36,7 +36,7 @@ Face-2-Attend is a Attendance recording system that works based on the profile I
   3. Install the dependencies -  
   ```pip install -r requirements.txt```                                                                                                                               
    
-  ## Running on local server - 
+  ## Running on local server - 💻
    
   1. **Make sure you have enabled the virtual environment and then type** - 
     </br>```python manage.py runserver``` 
