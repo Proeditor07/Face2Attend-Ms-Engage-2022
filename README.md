@@ -5,9 +5,9 @@
   <img src="https://user-images.githubusercontent.com/93596441/170276115-71567319-cfdd-4ad6-b489-7bba3eda9997.png"?raw=true" alt="Sublime's custom image"/>
 </p>
 Face-2-Attend is a Attendance recording system that works based on the profile Images of the recorded persons in the database. The face recognition process is live and the profile detail page will change If a new face has detected.
-/                                                                                                                                          
-/
-</br>See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
+
+
+</br>**See the video demo here** - https://www.youtube.com/watch?v=jz21Mj4T_m8
                                                                                                                                           
 ## Tech Stack                                                                                                                                           
 #### Frontend: ```HTML,CSS,JAVASCRIPT```    
@@ -38,7 +38,7 @@ Face-2-Attend is a Attendance recording system that works based on the profile I
    
   ## Running on local server - 
    
-  1. Make sure you have enabled the virtual environment and then type - 
+  1. **Make sure you have enabled the virtual environment and then type** - 
     </br>```python manage.py runserver``` 
     </br>It will create the server and the site will be visible on the port ```http://127.0.0.1:8000/```     
                                                                                                                                                                                                                                                                              
