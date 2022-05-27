@@ -56,11 +56,11 @@ Your erros will be resolved ^_^
                                                                                                                                           
  ![Screenshot (40)](https://user-images.githubusercontent.com/73808096/170746440-63867f32-1b66-49e1-b617-d1d60ec485b8.png)
  
-**Prfiles Section**
+**Profiles Section**
                                                                                                                                           
 ![Screenshot (43)](https://user-images.githubusercontent.com/73808096/170747763-4e225644-a2c6-47b0-b93c-a578a34155fd.png)
 
-**Add New Profile**
+**Add New Profile Section**
  
 ![Screenshot (44)](https://user-images.githubusercontent.com/73808096/170748354-7ec0a249-eaf6-416e-9312-3b3cfabc749b.png)
 
@@ -78,10 +78,12 @@ Your erros will be resolved ^_^
 ![Screenshot (42)](https://user-images.githubusercontent.com/73808096/170750297-c26f5878-38b5-4d4d-b99d-c7bc918f18a6.png)
                                                                                                                                           
                                                                                                                                           
-**Present Tab After Running Scanner**
+**Present Tab - After Running Scanner**
+                                                                                                                                          
 ![Screenshot (48)](https://user-images.githubusercontent.com/73808096/170752559-f6fbd1e4-39d6-4b01-abad-168b25e87623.png)
 
-**Absent Tab After Running Scanner**
+**Absent Tab - After Running Scanner**
+                                                                                                                                          
 ![Screenshot (49)](https://user-images.githubusercontent.com/73808096/170753079-26f16e94-97d4-4334-8bdc-ca56339f6682.png)
 
                                                                                                                                          
