@@ -55,4 +55,16 @@ Your erros will be resolved ^_^
 **Home Page**
                                                                                                                                           
  ![Screenshot (40)](https://user-images.githubusercontent.com/73808096/170746440-63867f32-1b66-49e1-b617-d1d60ec485b8.png)
-                                                                                                                                         
+ 
+**Prfiles Section**
+                                                                                                                                          
+![Screenshot (43)](https://user-images.githubusercontent.com/73808096/170747763-4e225644-a2c6-47b0-b93c-a578a34155fd.png)
+
+**Add New Profile**
+ 
+![Screenshot (44)](https://user-images.githubusercontent.com/73808096/170748354-7ec0a249-eaf6-416e-9312-3b3cfabc749b.png)
+
+**Scanning Page Before Detecting Any Face**
+ 
+![Screenshot (41)](https://user-images.githubusercontent.com/73808096/170749106-cc3fb173-ab80-408f-8f08-57d2df1922e1.png)
+                                                                                                                                          
