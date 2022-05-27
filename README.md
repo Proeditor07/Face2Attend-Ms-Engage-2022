@@ -44,3 +44,6 @@ See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
 ## Errors 🛑
  If you get any error of dependencies like - dlib/numpy/opencv-python error, then you must have to install ```visual studio``` on your machine  
 ![Screenshot (39)](https://user-images.githubusercontent.com/73808096/170742475-4d8a8e5a-6d2b-454f-84d5-a64481b7a9a4.png)
+
+After installing vs studio, Install the selected                                                                                                                             ![vs_interface_LI](https://user-images.githubusercontent.com/73808096/170742922-a8ce501a-c0d8-4d7d-a087-b619c6774c5b.jpg)
+              
