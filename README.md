@@ -78,3 +78,11 @@ Your erros will be resolved ^_^
 ![Screenshot (42)](https://user-images.githubusercontent.com/73808096/170750297-c26f5878-38b5-4d4d-b99d-c7bc918f18a6.png)
                                                                                                                                           
                                                                                                                                           
+**Present Tab After Running Scanner**
+![Screenshot (48)](https://user-images.githubusercontent.com/73808096/170752559-f6fbd1e4-39d6-4b01-abad-168b25e87623.png)
+
+**Absent Tab After Running Scanner**
+![Screenshot (49)](https://user-images.githubusercontent.com/73808096/170753079-26f16e94-97d4-4334-8bdc-ca56339f6682.png)
+
+                                                                                                                                         
+                                                                                                                                          
