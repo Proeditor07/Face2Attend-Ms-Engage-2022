@@ -25,9 +25,9 @@ See the video demo here - https://www.youtube.com/watch?v=jz21Mj4T_m8
   ```https://github.com/Proeditor07/Face2Attend-Ms-Engage-2022.git```
                                                                                                                                           
   2. Create the virtual environment - 
- ```py -3 -m venv env```                                                                                                                                            
+ </br>```py -3 -m venv env```                                                                                                                                            
   
-  3. Activate the virtual environment -                                                                                                                               ```.\env\scripts\activate```           
+  3. Activate the virtual environment -                                                                                                                               </br>```.\env\scripts\activate```           
                                                                                                                                         
                                                                                                                                           
 
